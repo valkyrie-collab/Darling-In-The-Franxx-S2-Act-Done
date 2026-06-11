@@ -14,25 +14,25 @@
 
 **Narrator (V.O.):** *"To a peaceful world, the legendary Franxx became nothing more than history. But the Vanguard of Squad 13 knew the truth. Granted a final, terrifying vision of VIRM’s return by the ancient past, they left behind a warning—and a hidden vault of forbidden knowledge, locked away until the day it would be needed."*
 
-**[Visual: Dive deep underground beneath a ruined plantation. Heavy blast doors spark to life as Jr. Franxx walks into a massive, dark hangar. Flashlights illuminate ancient text and the original crest of Squad 13 left on the walls, alongside the sleek, terrifying silhouette of a newly replicated, modern Franxx unit.]**
+**[Visual: Dive deep underground beneath a ruined plantation. Heavy blast doors spark to life as Jr. Franxx walks into a massive, dark hangar. Flashlights illuminate and the original crest of Squad 13 left on the walls(let imagine the crest as 1 after big Z middle of z H little smaller than z and lastly 3), alongside the sleek, terrifying silhouette of original franxxs of the squad 13, with a file document and a diary]**
 
 **Narrator (V.O.):** *"For ten centuries, the warning slept. Until one man dug up the past. But the truth was immediately twisted by those in power. Blinded by pride, the government saw this ancient technology not as a shield, but as a sword—a grand display to flex their nation's absolute power and dominance in a peaceful era."*
 
-**[Visual: Cut to a high-ranking, clean-cut government official slamming his hand on a glass table, demanding progress reports. Jr. Franxx stands opposite him, jaw clenched, tightly holding a weathered notebook containing Squad 13's prophecy, his warnings completely dismissed by the politicians.]**
+**[Visual: Cut to a high-ranking, clean-cut government official slamming his hand on a glass table, demanding progress reports. dr. Pax stands opposite him, jaw clenched, tightly holding a weathered file Document and diary containing Squad 13's prophecy and blueprints of strelizia, his warnings completely dismissed by the politicians.]**
 
-**Narrator (V.O.):** *"They forced him to build it, ignoring his desperate pleas. To the politicians, it is an instrument of vanity. But to Doc Franxx, it is the only weapon capable of saving human beings from total extinction... and he has already begun scanning the population for the keys to awaken the machine."*
+**Narrator (V.O.):** *"They forced him to rebuild strelizia and repair other franxx to their peak condition, ignoring his desperate pleas. To the politicians, it is an instrument of vanity. But to Doc Pax, it is the only weapon capable of saving human beings from total extinction... and he has already begun scanning the population for the keys to awaken the machine."*
 
 **[Visual: A computer screen in Jr. Franxx's dark lab flashes. A single newborn medical file is pulled up and highlighted with a glowing red warning: `YBC COUNT: MAXIMUM ANOMALY`. The name on the file reads: AMU. In the background, another file passes by completely unnoticed—labeled `HIRO`, showing perfectly normal, baseline human blood levels.]**
 
 **[Visual: The camera pans out from the lab screen, out past the moon, into the dark voids of deep space. Subtle ripples appear in the darkness as sleek, organic, advanced VIRM warships begin to de-cloak and mass in numbers.]**
 
-**Narrator (V.O.):** *"The thousand-year night is over. And the souls that once saved us are born anew. util they meet again under the same sky"*
+**Narrator (V.O.):** *"The thousand-year night is over. And the souls that once saved us are born anew. until they meet again under the same sky"*
 
 ### Scene 2: The Midnight Tear and The Sanctuary
 
 **[Visual: A sharp, jarring cut from the silent cosmic void of the VIRM armada back down to Earth. It is pitch black, dead in the middle of the night. Rain taps softly against a bedroom window.]**
 
-**[Visual: Close-up on 14-year-old Hiro’s face in bed. His eyes are shut tight, his brow furrowed in agony. We see quick, chaotic, surreal flashes of a burning red sky, giant mechanical hands clenching, and a beautiful, terrifying silhouette of a girl with glowing red horns reaching out to him, grabbing his cheeks. She said...]**
+**[Visual: Close-up on 14-year-old Hiro’s face in bed. His eyes are shut tight, his brow furrowed in agony. We see quick, chaotic, surreal flashes of a burning red sky, giant mechanical hands clenching, and a beautiful, terrifying silhouette of a girl with glowing red horns. As she leans closer, her hair billows violently around them—not just pink, but a cascading, unearthly storm of petals, like cherry blossoms caught in a wild, burning wind. Reaching out to him, grabbing his cheeks. She said...]**
 
 **Voice in Dream:** *"Darling...!"*
 
@@ -40,7 +40,7 @@
 
 **Hiro:** *(Whispering, staring at his wet fingers)* "Tears...? Why am I crying?"
 
-**[Visual: Hiro sits on the edge of his bed, looking out the window at the distant, massive shadow of the ancient cherry blossom tree swaying in the night. He grips his head, trying desperately to piece together the fragments of the dream.]**
+**[Visual: Hiro sits on the edge of his bed, looking out the window at the distant, massive shadow of cherry blossom tree swaying in the night. He grips his head, trying desperately to piece together the fragments of the dream.]**
 
 **Hiro (V.O.):** *"It felt like a nightmare... but it didn't feel fake. It felt like a memory. A distant, aching life from a past far behind me. Who was that person with the horns? Why does my chest hurt so badly when I try to remember her name?"*
 
@@ -52,11 +52,11 @@
 
 **[Visual: The next morning. A wide shot of a massive, state-of-the-art academy complex. A grand gate stands proudly, bearing the name engraved in gold: SANCTUARY HIGH SCHOOL. Thousands of students in crisp uniforms are walking through the gates.]**
 
-**Narrator (V.O.):** *"In this era, war is a myth. But at Sanctuary High, the legendary Franxx project is kept alive—taught to the younger generation as a grand symbol of historical peace, power, and national pride. For most, it’s an elite career path to show off their talents. But for me, it was an obsession."*
+**Hiro (V.O.):** *"In this era, the franxx project. To the public, the Franxx are nothing more than ancient, sacred relics of a bygone age. But under the government’s new National Heritage Initiative, Sanctuary High was built to keep that history alive. They call it the pinnacle of human achievement—an elite, state-backed program marketed to the world as a grand, high-tech athletic discipline to celebrate a thousand years of peace."*
 
-**[Visual: A quick flashback montage showing a younger Hiro from middle school, relentlessly training, running on treadmills, pushing his physical limits, and scoring perfect marks on synchronization simulators.]**
+**[Visual: A quick flashback montage showing a younger Hiro from middle school, relentlessly training, running on treadmills, pushing his physical limits, and scoring perfect marks on synchronization simulators and training units.]**
 
-**Hiro (V.O.):** *"Ever since I was a child, I felt an unexplainable, magnetic pull toward the Franxx. Like a silent voice calling out to my very soul, demanding that I climb inside. I went through every brutal training regimen humanity had to offer to prepare oneself to pilot a franxx before he/she join the academy, not for national glory... but to find out why a machine felt more like home than the real world."*
+**Hiro (V.O.):** *"Ever since I was a child, I felt an unexplainable, magnetic pull toward the Franxx. Like a silent voice calling out to my very soul, demanding that I climb inside. I went through every brutal training regimen, and push myself to the limit, so that I may be prepared to pilot a franxx before he/she join the academy, not for national glory... but to find out why a machine felt more like home than the real world."*
 
 ---
 
@@ -88,9 +88,9 @@
 
 ---
 
-### Scene 6: High Stress and pressure
+### Scene 6: High Stress
 
-**[Visual: A sharp, explosive smash-cut back to reality. A heart monitor blares a frantic, high-pitched alarm. The digital screen reads: His blood pressure off the chart.]**
+**[Visual: A sharp, explosive smash-cut back to reality. A heart monitor blares a frantic, high-pitched alarm. The digital screen reads: His Heart Rate is off the chart.]**
 
 **[Visual: Hiro sits up violently in a stark white hospital bed, tearing the heart-monitor leads off his chest. He is completely drenched in cold sweat, his pupils dilated with absolute panic.]**
 
@@ -101,6 +101,14 @@
 **Hiro:** *(Breathing in ragged, terrified gasps, talking to himself)* "Why... why was I inside a Franxx? Who was that girl... her features, her hair... she’s the exact same person from my midnight dream. What were those blue monsters? Why were we fighting them? What *is* this?!"
 
 **[Visual: The camera pulls back slowly through the hospital room window. Far below in the courtyard, unnoticed by everyone, the massive stone statue of Strelizia stands silent under the sun, hiding the truth of a thousand-year war that is about to explode back into reality.]**
+
+**[Visual: The heavy wooden door of the private hospital room bursts open. Hiro’s mother and father rush into the room, their faces completely pale with terror. His mother instantly flings her arms around his trembling shoulders, pulling him tight against her chest as she weeps, while his father desperately asks the doctor, demanding to know what happened to their son.]**
+
+**Hiro's Mother:** *(Sobs, squeezing him tight)* "Hiro! Oh god, Hiro... we thought we lost you! Please, talk to us!"
+
+**[Visual: Hiro doesn't hug her back. His arms hang limp, his hollow, unblinking eyes staring blankly past his parents at the window. He is entirely detached, trapped inside the echoes of his own mind as his parents' voices blur into distant, muffled noise.]**
+
+**[Visual: The camera slowly pulls back, moving out through the glass of the hospital room window, leaving the frantic family and medical staff behind. It drifts down into the bright courtyard below where, unnoticed by everyone, the massive stone statue of Strelizia stands silent under the sun—hiding the truth of a thousand-year war that is about to explode back into reality.]**
 
 ---
 
