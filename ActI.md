@@ -10,19 +10,19 @@
 
 **Narrator (V.O.):** *"A thousand years ago, two souls gave everything to save our world. By destroying the heart of the VIRM, Hiro and Zero Two bought humanity its freedom. We kept our promise. We buried the magma energy, let the Earth heal, and for ten centuries, peace reigned."*
 
-**[Visual: A beautiful, sweeping montage of modern, eco-friendly cities built alongside the overgrown, forested ruins of the old Birdcages and Plantations.]**
+**[Visual: A beautiful, sweeping montage of modern, cities built alongside the overgrown, forested ruins of the old Birdcages and Plantations.]**
 
 **Narrator (V.O.):** *"To a peaceful world, the legendary Franxx became nothing more than history. But the Vanguard of Squad 13 knew the truth. Granted a final, terrifying vision of VIRM’s return by the ancient past, they left behind a warning—and a hidden vault of forbidden knowledge, locked away until the day it would be needed."*
 
-**[Visual: Dive deep underground beneath a ruined plantation. Heavy blast doors spark to life as Jr. Franxx walks into a massive, dark hangar. Flashlights illuminate and the original crest of Squad 13 left on the walls(let imagine the crest as 1 after big Z middle of z H little smaller than z and lastly 3), alongside the sleek, terrifying silhouette of original franxxs of the squad 13, with a file document and a diary]**
+**[Visual: Dive deep underground beneath a ruined plantation. Heavy blast doors spark to life as Dr. Pax walks into a massive, dark hangar. Flashlights illuminate and the original crest of Squad 13 left on the walls(let imagine the crest as 1 after big Z middle of z H little smaller than z and lastly 3), alongside the sleek, terrifying silhouette of original franxxs of the squad 13, with a file document and a diary]**
 
 **Narrator (V.O.):** *"For ten centuries, the warning slept. Until one man dug up the past. But the truth was immediately twisted by those in power. Blinded by pride, the government saw this ancient technology not as a shield, but as a sword—a grand display to flex their nation's absolute power and dominance in a peaceful era."*
 
-**[Visual: Cut to a high-ranking, clean-cut government official slamming his hand on a glass table, demanding progress reports. dr. Pax stands opposite him, jaw clenched, tightly holding a weathered file Document and diary containing Squad 13's prophecy and blueprints of strelizia, his warnings completely dismissed by the politicians.]**
+**[Visual: Cut to a high-ranking, clean-cut government official slamming his hand on a glass table, demanding progress reports. dr. Pax stands opposite him, jaw clenched, tightly holding a weathered file Document and diary containing Squad 13's prophecy and blueprints of strelizia and other franxxs, his warnings completely dismissed by the politicians.]**
 
-**Narrator (V.O.):** *"They forced him to rebuild strelizia and repair other franxx to their peak condition, ignoring his desperate pleas. To the politicians, it is an instrument of vanity. But to Doc Pax, it is the only weapon capable of saving human beings from total extinction... and he has already begun scanning the population for the keys to awaken the machine."*
+**Narrator (V.O.):** *"They forced him to rebuild strelizia and repair other franxx to their peak condition, ignoring his desperate pleas. To the politicians, it is an instrument of vanity. But to Doc Pax, it is the only weapon capable of saving human beings from total extinction... and he has already begun scanning the population for the keys to awaken the machine. To its full potential"*
 
-**[Visual: A computer screen in Jr. Franxx's dark lab flashes. A single newborn medical file is pulled up and highlighted with a glowing red warning: `YBC COUNT: MAXIMUM ANOMALY`. The name on the file reads: AMU. In the background, another file passes by completely unnoticed—labeled `HIRO`, showing perfectly normal, baseline human blood levels.]**
+**[Visual: A computer screen in Dr. Pax's dark lab flashes. A single newborn medical file is pulled up and highlighted with a glowing red warning: `YBC TYPE: ANOMALY`. The name on the file reads: AMU. In the background, another file passes by completely unnoticed—labeled `HIRO`, showing perfectly normal, baseline human blood levels.]**
 
 **[Visual: The camera pans out from the lab screen, out past the moon, into the dark voids of deep space. Subtle ripples appear in the darkness as sleek, organic, advanced VIRM warships begin to de-cloak and mass in numbers.]**
 
@@ -32,7 +32,7 @@
 
 **[Visual: A sharp, jarring cut from the silent cosmic void of the VIRM armada back down to Earth. It is pitch black, dead in the middle of the night. Rain taps softly against a bedroom window.]**
 
-**[Visual: Close-up on 14-year-old Hiro’s face in bed. His eyes are shut tight, his brow furrowed in agony. We see quick, chaotic, surreal flashes of a burning red sky, giant mechanical hands clenching, and a beautiful, terrifying silhouette of a girl with glowing red horns. As she leans closer, her hair billows violently around them—not just pink, but a cascading, unearthly storm of petals, like cherry blossoms caught in a wild, burning wind. Reaching out to him, grabbing his cheeks. She said...]**
+**[Visual: Close-up on 14-year-old Hiro’s face in bed. His eyes are shut tight, his brow furrowed in agony. We see quick, chaotic, surreal flashes of a burning red sky, giant mechanical hands clenching, and a beautiful, silhouette of a girl with glowing red horns. As she leans closer, her hair billows violently around them—not just pink, but a cascading, unearthly storm of petals, like cherry blossoms caught in a wild, burning wind. Reaching out to him, grabbing his cheeks. She said...]**
 
 **Voice in Dream:** *"Darling...!"*
 
